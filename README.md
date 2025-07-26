@@ -30,10 +30,10 @@ We use the [Kaggle Fruits 360 Dataset](https://www.kaggle.com/moltean/fruits) wh
 
 ## **Project Structure**
 FruitVision/
-│-- dataset/ # Fruits 360 dataset (train & test images)
-│-- model/ # Trained CNN model files
-│-- real_time_detect.py # Real-time fruit detection script
-│-- train_model.py # Model training script
-│-- test_prediction.py # Model testing script
-│-- requirements.txt # Dependencies
-│-- README.md # Project documentation
+- dataset/ # Fruits 360 dataset (train & test images)
+- model/ # Trained CNN model files
+- real_time_detect.py # Real-time fruit detection script
+- train_model.py # Model training script
+- test_prediction.py # Model testing script
+- requirements.txt # Dependencies
+- README.md # Project documentation
